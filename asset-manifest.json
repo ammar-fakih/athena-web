@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/athena-web/static/js/app.f912f861.chunk.js",
-    "app.js.map": "/athena-web/static/js/app.f912f861.chunk.js.map",
+    "app.js": "/athena-web/static/js/app.19f2756d.chunk.js",
+    "app.js.map": "/athena-web/static/js/app.19f2756d.chunk.js.map",
     "runtime~app.js": "/athena-web/static/js/runtime~app.3b79dd29.js",
     "runtime~app.js.map": "/athena-web/static/js/runtime~app.3b79dd29.js.map",
-    "static/js/2.f6961dc7.chunk.js": "/athena-web/static/js/2.f6961dc7.chunk.js",
-    "static/js/2.f6961dc7.chunk.js.map": "/athena-web/static/js/2.f6961dc7.chunk.js.map",
+    "static/js/2.425babd7.chunk.js": "/athena-web/static/js/2.425babd7.chunk.js",
+    "static/js/2.425babd7.chunk.js.map": "/athena-web/static/js/2.425babd7.chunk.js.map",
     "fonts/AntDesign.ttf": "/athena-web/./fonts/AntDesign.ttf",
     "fonts/Entypo.ttf": "/athena-web/./fonts/Entypo.ttf",
     "fonts/Feather.ttf": "/athena-web/./fonts/Feather.ttf",
@@ -24,15 +24,16 @@
     "index.html": "/athena-web/index.html",
     "manifest.json": "/athena-web/manifest.json",
     "serve.json": "/athena-web/serve.json",
-    "static/js/2.f6961dc7.chunk.js.LICENSE.txt": "/athena-web/static/js/2.f6961dc7.chunk.js.LICENSE.txt",
+    "static/js/2.425babd7.chunk.js.LICENSE.txt": "/athena-web/static/js/2.425babd7.chunk.js.LICENSE.txt",
     "static/media/app-logo-transparent.png": "/athena-web/static/media/app-logo-transparent.1ede614a.png",
     "static/media/coupon.jpg": "/athena-web/static/media/coupon.1dcc7bb0.jpg",
     "static/media/owl-black-text.png": "/athena-web/static/media/owl-black-text.6f7231df.png",
-    "static/media/owl-white-text.png": "/athena-web/static/media/owl-white-text.9861cc3f.png"
+    "static/media/owl-white-text.png": "/athena-web/static/media/owl-white-text.9861cc3f.png",
+    "static/media/splash-logo.png": "/athena-web/static/media/splash-logo.2b1029f0.png"
   },
   "entrypoints": [
     "static/js/runtime~app.3b79dd29.js",
-    "static/js/2.f6961dc7.chunk.js",
-    "static/js/app.f912f861.chunk.js"
+    "static/js/2.425babd7.chunk.js",
+    "static/js/app.19f2756d.chunk.js"
   ]
 }
